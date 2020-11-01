@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,leancloud.cn
 DOMAIN-SUFFIX,cloudmobi.net
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,ads.internal.unity3d.com
+DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN,firebaselogging-pa.googleapis.com
