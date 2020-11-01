@@ -1,1 +1,25 @@
+DOMAIN-KEYWORD,analytics
+DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,alimama
+DOMAIN-KEYWORD,tanx
+DOMAIN-KEYWORD,adsrvr
+DOMAIN-KEYWORD,supersonicads
+DOMAIN-KEYWORD,trafficjunky
+DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,adserver
+DOMAIN-KEYWORD,admaster
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,pixel.advertising.com
+DOMAIN,adimg.uve.weibo.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,hm.baidu.com
+DOMAIN,cpro.baidustatic.com
+DOMAIN,ads.mopub.com
+DOMAIN,display.adhudong.com
+DOMAIN,ads.nicovideo.jp
+DOMAIN,flurry.adserver.prod.g04.yahoodns.net
+DOMAIN,pagead.googlesyndication.com
+DOMAIN,pagead1.googlesyndication.com
+DOMAIN,pagead2.googlesyndication.com
 DOMAIN, gstaticadssl.l.google.com
