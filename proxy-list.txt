@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,wikimedia
