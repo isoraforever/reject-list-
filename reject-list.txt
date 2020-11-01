@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,analytics
 DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,pagead
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,tanx
@@ -48,7 +49,4 @@ DOMAIN,ads.mopub.com
 DOMAIN,display.adhudong.com
 DOMAIN,ads.nicovideo.jp
 DOMAIN,flurry.adserver.prod.g04.yahoodns.net
-DOMAIN,pagead.googlesyndication.com
-DOMAIN,pagead1.googlesyndication.com
-DOMAIN,pagead2.googlesyndication.com
 DOMAIN, gstaticadssl.l.google.com
