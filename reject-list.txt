@@ -49,5 +49,5 @@ DOMAIN,ads.mopub.com
 DOMAIN,display.adhudong.com
 DOMAIN,ads.nicovideo.jp
 DOMAIN,flurry.adserver.prod.g04.yahoodns.net
-DOMAIN, gstaticadssl.l.google.com
+DOMAIN,gstaticadssl.l.google.com
 DOMAIN,log.umsns.com
