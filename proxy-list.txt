@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,pixiv.net
