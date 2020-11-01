@@ -54,8 +54,3 @@ DOMAIN,ads.nicovideo.jp
 DOMAIN,flurry.adserver.prod.g04.yahoodns.net
 DOMAIN,gstaticadssl.l.google.com
 DOMAIN,log.umsns.com
-#youtube
-URL-REGEX,^https?+:\/\/.+?\.googlevideo\.com\/.+?(?>&oad|ctier)
-URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/api\/.+?ad
-URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/p(?>agead|tracking)
-URL-REGEX,^https?+:\/\/youtubei\.googleapis\.com\/youtubei\/.+?(?>ad|log)_
