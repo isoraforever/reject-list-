@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
@@ -24,4 +25,4 @@ DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,linode
+DOMAIN-KEYWORD,dogyun
