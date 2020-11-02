@@ -67,4 +67,5 @@ DOMAIN,f11.baidu.com
 DOMAIN,f12.baidu.com
 DOMAIN,sp0.baidu.com
 DOMAIN,em.baidu.com
-DOMAIN,opencdnbdsimage.jomodns.com 
+DOMAIN,opencdnbdsimage.jomodns.com
+DOMAIN,lupic.cdn.bcebos.com
