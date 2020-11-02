@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,exosrv.com
 DOMAIN-SUFFIX,mytrafficads.com
 DOMAIN-SUFFIX,hilltopads.net
 DOMAIN-SUFFIX,popads.net
+DOMAIN-SUFFIX,adsmind.gdtimg.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,leancloud.cn
 DOMAIN-SUFFIX,cloudmobi.net
