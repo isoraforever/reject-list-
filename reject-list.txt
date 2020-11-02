@@ -55,3 +55,9 @@ DOMAIN,ads.nicovideo.jp
 DOMAIN,flurry.adserver.prod.g04.yahoodns.net
 DOMAIN,gstaticadssl.l.google.com
 DOMAIN,log.umsns.com
+DOMAIN,t10.baidu.com
+DOMAIN,t11.baidu.com
+DOMAIN,t12.baidu.com
+DOMAIN,f12.baidu.com
+DOMAIN,sp0.baidu.com
+DOMAIN,em.baidu.com
