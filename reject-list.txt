@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,bdstatic
 DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,pagead
 DOMAIN-KEYWORD,umeng
+DOMAIN-KEYWORD,wangmeng
 DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,tanx
 DOMAIN-KEYWORD,adsrvr
@@ -49,6 +50,9 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,pixel.advertising.com
+DOMAIN-SUFFIX,ads.youtube.com
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com
+DOMAIN-SUFFIX,youtube.112.2o7.net
 DOMAIN,adimg.uve.weibo.com
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,hm.baidu.com
