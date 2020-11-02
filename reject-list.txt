@@ -62,6 +62,8 @@ DOMAIN,log.umsns.com
 DOMAIN,t10.baidu.com
 DOMAIN,t11.baidu.com
 DOMAIN,t12.baidu.com
+DOMAIN,f10.baidu.com
+DOMAIN,f11.baidu.com
 DOMAIN,f12.baidu.com
 DOMAIN,sp0.baidu.com
 DOMAIN,em.baidu.com
