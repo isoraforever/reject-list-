@@ -2,6 +2,8 @@ DOMAIN-KEYWORD,meituan
 DOMAIN-KEYWORD,sina
 DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bilibili
@@ -19,8 +21,6 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,amap.com
@@ -32,3 +32,5 @@ DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,tenpay.com
+IP-CIDR,198.11.188.0/25,no-resolve
+IP-CIDR,198.11.136.0/24,no-resolve
