@@ -13,4 +13,5 @@ DOMAIN-KEYWORD,trafficjunky
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,taboola
 
