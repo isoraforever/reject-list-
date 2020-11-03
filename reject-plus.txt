@@ -57,4 +57,6 @@ opencdnbdsimage.jomodns.com
 lupic.cdn.bcebos.com
 a1.zhanzhang.net
 a2.zhanzhang.net
+aeventlog.beacon.qq.com
+report.huatuo.qq.com
  
