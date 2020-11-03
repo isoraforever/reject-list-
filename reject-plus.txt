@@ -38,7 +38,7 @@ pixel.advertising.com
 adimg.uve.weibo.com
 safebrowsing.urlsec.qq.com
 hm.baidu.com
-cpro.baidustatic.com
+.baidustatic.com
 ads.mopub.com
 display.adhudong.com
 ads.nicovideo.jp
