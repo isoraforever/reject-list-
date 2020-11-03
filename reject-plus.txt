@@ -55,4 +55,6 @@ sp0.baidu.com
 em.baidu.com
 opencdnbdsimage.jomodns.com
 lupic.cdn.bcebos.com
+a1.zhanzhang.net
+a2.zhanzhang.net
  
