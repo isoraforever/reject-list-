@@ -59,4 +59,5 @@ a1.zhanzhang.net
 a2.zhanzhang.net
 aeventlog.beacon.qq.com
 report.huatuo.qq.com
+ehg-youtube.hitbox.com
  
